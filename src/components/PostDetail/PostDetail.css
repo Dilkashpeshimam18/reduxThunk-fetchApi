@@ -1,0 +1,12 @@
+.postDetail__Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: max-content;
+    text-align: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
