@@ -40,3 +40,19 @@
     border-radius: 3px;
     cursor: pointer;
 }
+@media (max-width: 400px) {
+    .post__Cards{
+        margin-left: 10px;
+        
+    }
+    .post__Container{
+        
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .post__Card{
+        width: 280px;
+    }
+
+  }
